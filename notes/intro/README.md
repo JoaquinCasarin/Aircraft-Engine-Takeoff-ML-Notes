@@ -13,3 +13,5 @@ El análisis del rendimiento de motores de aeronaves durante la fase de despegue
 ## Motivación
 
 La fase de despegue es crítica en la operación de aeronaves, requiriendo máximo rendimiento del motor. El uso de machine learning permite análisis predictivo y mejora continua.
+
+Esto es una prueba
